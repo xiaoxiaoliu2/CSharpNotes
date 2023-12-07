@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpNotes", "CSharpNotes\CSharpNotes.csproj", "{4CB21EB5-F258-4CEB-A3BC-552B5C42019B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB21EB5-F258-4CEB-A3BC-552B5C42019B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB21EB5-F258-4CEB-A3BC-552B5C42019B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB21EB5-F258-4CEB-A3BC-552B5C42019B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB21EB5-F258-4CEB-A3BC-552B5C42019B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77EF0903-1379-43F6-98BB-E55BCAC754A2}
+	EndGlobalSection
+EndGlobal
