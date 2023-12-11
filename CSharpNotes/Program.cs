@@ -214,25 +214,91 @@ class Program
 
         try
         {
-            Console.Write("Enter a number: ");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter another number: ");
-            int num2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(num1 / num2);
+            //Console.Write("Enter a number: ");
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Enter another number: ");
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine(num1 / num2);
         }
-        catch(Exception e)
+        //catch(Exception e)
+        //{
+        //    Console.WriteLine(e.Message);
+        //}
+        catch (DivideByZeroException e)
+        {
+            Console.WriteLine(e.Message);
+        }
+        catch (FormatException e)
         {
             Console.WriteLine(e.Message);
         }
 
-
-
-
-
         // 7. OOP: Classes, Objects, Inheritance, static
+        // class is basically just a specification for a new data type
+        // class: a template of a book, a book data type, like string
+        // object: an instance of a class
+        // constructors: a special method in our class, called whenever we create an object of that class, a way to create object   
+
+
+        Book book1 = new Book("Harry Potter", "JK Rowling", 400);
+        //book1.title = "Harry Potter";
+        //book1.author = "JK Rowling";
+        //book1.pages = 400;
+        Console.WriteLine(book1.pages);
+
+        Book book2 = new Book("Lord of the Rings", "Tolkein", 700);
+        //book1.title = "Lord of the Rings";
+        //book1.author = "Tolkein";
+        //book1.pages = 700;
+        Console.WriteLine(book2.pages);
+
+        // object method
+
+        Student student1 = new Student("Jim", "Business", 2.8);
+        Student student2 = new Student("Pam", "Art", 3.6);
+
+        Console.WriteLine(student1.HasHonors());
+        Console.WriteLine(student2.HasHonors());
+
+
+        // Getters, Setters: two methods, control the access to the attributes of those classes
+        Movie avengers = new Movie("The Avengers", "Joss Whedon", "PG-13");
+        Movie shrek = new Movie("Shrek", "Adam Adamson", "PG");
+        // G, PG, PG-13, R, NR
+        
+        Console.WriteLine(avengers.Rating);
+
+
+        // Static attributes, a special attribute in a class, shared by all the objects and all the instances of that class
+
+        Song holiday = new Song("Holiday", "Green Day", 200);
+        Console.WriteLine(holiday.artist);    // attribute of the object
+        Console.WriteLine(Song.songCount);   // attribute of the class
+        Song kashmir = new Song("Kashmir", "Led Zeppelin", 150);
+        Console.WriteLine(kashmir.artist);
+        Console.WriteLine(Song.songCount);
+        Console.WriteLine(kashmir.getSongCount());
+
+
+        // Static Methods & Classes
+        UsefulTools.SayHi("Mike");
+        Console.WriteLine(Math.Sqrt(144)); // a Math class is a static class, cannot create an instance of that class, ise it directly
+
+        // Inheritance: techique of C#, one class can have all the functionality of another class
+        Chef chef = new Chef();  
+        chef.MakeSpecialDish();
+
+        ItalianChef italianChef = new ItalianChef();
+        italianChef.MakeSpecialDish();
+
+
+
 
         Console.ReadLine();
     }
+
+    
+
 
 
 
