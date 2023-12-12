@@ -1,0 +1,12 @@
+/Users/lyg/Downloads/CSharp_Notes/DelegateBasicExample/bin/Debug/net7.0/DelegateBasicExample.deps.json
+/Users/lyg/Downloads/CSharp_Notes/DelegateBasicExample/bin/Debug/net7.0/DelegateBasicExample.dll
+/Users/lyg/Downloads/CSharp_Notes/DelegateBasicExample/bin/Debug/net7.0/DelegateBasicExample.pdb
+/Users/lyg/Downloads/CSharp_Notes/DelegateBasicExample/obj/Debug/net7.0/DelegateBasicExample.csproj.AssemblyReference.cache
+/Users/lyg/Downloads/CSharp_Notes/DelegateBasicExample/obj/Debug/net7.0/DelegateBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lyg/Downloads/CSharp_Notes/DelegateBasicExample/obj/Debug/net7.0/DelegateBasicExample.AssemblyInfoInputs.cache
+/Users/lyg/Downloads/CSharp_Notes/DelegateBasicExample/obj/Debug/net7.0/DelegateBasicExample.AssemblyInfo.cs
+/Users/lyg/Downloads/CSharp_Notes/DelegateBasicExample/obj/Debug/net7.0/DelegateBasicExample.csproj.CoreCompileInputs.cache
+/Users/lyg/Downloads/CSharp_Notes/DelegateBasicExample/obj/Debug/net7.0/DelegateBasicExample.dll
+/Users/lyg/Downloads/CSharp_Notes/DelegateBasicExample/obj/Debug/net7.0/refint/DelegateBasicExample.dll
+/Users/lyg/Downloads/CSharp_Notes/DelegateBasicExample/obj/Debug/net7.0/DelegateBasicExample.pdb
+/Users/lyg/Downloads/CSharp_Notes/DelegateBasicExample/obj/Debug/net7.0/ref/DelegateBasicExample.dll

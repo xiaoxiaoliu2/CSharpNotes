@@ -1,0 +1,12 @@
+/Users/lyg/Downloads/CSharp_Notes/HRAdministrationAPI/bin/Debug/net7.0/HRAdministrationAPI.deps.json
+/Users/lyg/Downloads/CSharp_Notes/HRAdministrationAPI/bin/Debug/net7.0/HRAdministrationAPI.dll
+/Users/lyg/Downloads/CSharp_Notes/HRAdministrationAPI/bin/Debug/net7.0/HRAdministrationAPI.pdb
+/Users/lyg/Downloads/CSharp_Notes/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.csproj.AssemblyReference.cache
+/Users/lyg/Downloads/CSharp_Notes/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lyg/Downloads/CSharp_Notes/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.AssemblyInfoInputs.cache
+/Users/lyg/Downloads/CSharp_Notes/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.AssemblyInfo.cs
+/Users/lyg/Downloads/CSharp_Notes/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.csproj.CoreCompileInputs.cache
+/Users/lyg/Downloads/CSharp_Notes/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.dll
+/Users/lyg/Downloads/CSharp_Notes/HRAdministrationAPI/obj/Debug/net7.0/refint/HRAdministrationAPI.dll
+/Users/lyg/Downloads/CSharp_Notes/HRAdministrationAPI/obj/Debug/net7.0/HRAdministrationAPI.pdb
+/Users/lyg/Downloads/CSharp_Notes/HRAdministrationAPI/obj/Debug/net7.0/ref/HRAdministrationAPI.dll
